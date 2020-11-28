@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_sensor_plotter/templates *
+recursive-include octoprint_sensor_plotter/translations *
+recursive-include octoprint_sensor_plotter/static *
